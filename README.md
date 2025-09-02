@@ -8,7 +8,7 @@ This repository contains the source code for my **portfolio**, where I showcase 
 ---
 
 ## 👩‍💻 About Me
-I am **Priyanka Sharma**, currently pursuing **B.Tech in Computer Science (Data Science)** at NIET, Greater Noida.  
+I am **Priyanka Sharma**, I have done **B.Tech in Computer Science (Data Science)** at NIET, Greater Noida.  
 I am passionate about combining **technology and creativity** – whether it’s building projects, analyzing data, or designing clean visuals.  
 
 ---
