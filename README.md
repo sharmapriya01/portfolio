@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! 🚀  
 This repository contains the source code for my **portfolio**, where I showcase my skills, projects, and achievements.  
 
-🔗 **Live Demo:** [Click Here](https://yourusername.github.io/portfolio/)  
+
 
 ---
 
@@ -25,11 +25,6 @@ I am passionate about combining **technology and creativity** – whether it’s
 - 🎤 **Speech Emotion Recognition** – Machine learning model that classifies emotions from audio recordings (85% accuracy).  
 - 🖼️ **Image Steganography** – Secure method to hide data inside images without compromising quality.  
 - 🌐 **Portfolio Website** – A personal website highlighting my skills and work.  
-
----
-
-## 📊 GitHub Stats
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
 
 ---
 
